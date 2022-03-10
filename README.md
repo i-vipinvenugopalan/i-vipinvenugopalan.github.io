@@ -1,4 +1,4 @@
-### Hi there 👋 
+### vipin.venugopalan 👋 
 
 <!--
 **i-vipinvenugopalan/i-vipinvenugopalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
